@@ -28,3 +28,5 @@ In this challenge I was tasked to utilize and optimize a deep learning model fro
   - Adding more neurons to a hidden layer.
   - Adding or removing hidden layers.
   - Increasing or decreasing the number of epochs in the training regimen.
+## Summary
+The deep learning model reached a performance of 77.29% which was above teh 75% desired threshold and therefore considered a success from the given parameters.
